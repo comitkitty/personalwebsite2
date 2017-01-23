@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Autumn Sehy</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+
+</head>
+
+<body>
+
+
+<div>
+
+<h1> Who am I?</h1>
+<p>I am a student, NCAA Track Athlete, language nerd, website-programmer and cat lover.</p>
+
+</div>
+
+
+<div>
+
+<h1> What do I do? </h1>
+<ol>
+  <li>Tell people not to blow themselves up by digging and hitting a pipeline</li>
+  <li>Write opinions for the Arkansas Traveler</li>
+  <li>Make websites for really smart engineers at the UofA</li>
+</ol>
+
+<div>
+
+
+</body>
+</html>
