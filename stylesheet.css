@@ -7,6 +7,9 @@ body
 }
 
 .frontCircle{
+	position: relative;
+	left: 30px;
+    	border: 3px solid #73AD21;
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;
