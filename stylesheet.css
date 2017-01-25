@@ -3,8 +3,7 @@ body
   background: url("https://cdn.getyourguide.com/niwziy2l9cvz/5A7fQS2Y92y28kWw8u8qgw/7b40534cd22ebdac69fbee87f3511edd/Cannes-1112x630_4_.jpg";
 }
 
-html
+*
 {
   font-family:"Arsenal";
-  font-size:30px;
 }
