@@ -16,7 +16,7 @@ body
 	background-color: #000;
 	color: #fff;
 	font-size: 18px;
-	text-align: center;
+	text-align: inline;
 	display:inline-block;
 	/* width and height can be anything, as long as they're equal */
 }
