@@ -6,3 +6,9 @@ body
   font-family:"Arsenal";
 }
 
+.frontpage
+{
+   border-radius: 50%;
+   background-color: "black";
+   color: "white";
+}
