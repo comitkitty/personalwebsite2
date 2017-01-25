@@ -14,11 +14,8 @@ body
 	width: 200px;
 	height: 200px;
 	background-color: #000;
+	color: #fff;
+	font-size: 18px;
 	/* width and height can be anything, as long as they're equal */
 }
 
-h2
-{
-  color: #fff;
-  font-size: 18px;
-}
