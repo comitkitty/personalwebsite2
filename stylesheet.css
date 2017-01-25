@@ -35,9 +35,7 @@ video {
   border: 2px solid black;
 }
 
-.container {
-  display: flex;
-}
+
 
 .main {
   padding-left: 30px;
