@@ -17,6 +17,7 @@ body
 	color: #fff;
 	font-size: 18px;
 	text-align: center;
+	display:inline-block;
 	/* width and height can be anything, as long as they're equal */
 }
 
