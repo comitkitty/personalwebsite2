@@ -9,6 +9,7 @@ body
 
 
 .frontCircle{
+	float: left;
 	display: block;
 	margin: 10px 10px 10px 10px;
 	width: 400px;
