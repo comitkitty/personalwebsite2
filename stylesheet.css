@@ -3,13 +3,8 @@ body
   font-family:"Arsenal";
 }
 
-.container {
-	display: inline;
-}
-
 .frontCircle{
-    	margin: 1em;
-	display: block;
+    
 	width: 400px;
 	height: 150px;
 	background-color: #000;
@@ -21,9 +16,7 @@ body
 }
 
 .frontPhoto{
-	margin-top: 1em;
-  	padding-top: 1em;
-	margin-right: 1em;
+
 }
 
 img{
