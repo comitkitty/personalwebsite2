@@ -4,9 +4,9 @@ body
 }
 
 .frontCircle{
-	position: relative;
-	margin:50px 50px 50px 50px;
-	left: 30px;
+	position: absolute;
+	left: 20px;
+	top: 20px;
 	width: 400px;
 	height: 150px;
 	background-color: #000;
@@ -19,6 +19,8 @@ body
 }
 
 .frontPhoto{
-    margin: auto;
+    position: absolute;
+    right: 20px;
+    top: 20px;
     display: inline-block;
 }
