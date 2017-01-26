@@ -17,5 +17,5 @@ body
 
 .frontPhoto{
     margin: 20px;
-    display: right;
+    display: block;
 }
