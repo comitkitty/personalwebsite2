@@ -4,7 +4,7 @@ body
 }
 
 .frontCircle{
-	margin: 50px 50px;
+	margin: 50px 50px 50px 50px;
 	width: 400px;
 	height: 150px;
 	background-color: #000;
@@ -16,5 +16,5 @@ body
 }
 
 .frontPhoto{
-    padding: 20px;
+    margin: 20px;
 }
