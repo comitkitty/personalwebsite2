@@ -10,6 +10,7 @@ body
 
 .frontCircle{
     	float: left;
+	display: inline;
 	width: 400px;
 	height: 150px;
 	background-color: #000;
