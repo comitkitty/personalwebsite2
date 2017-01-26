@@ -19,6 +19,8 @@ body
 }
 
 .frontPhoto{
-	position: right center;
-	size: 50%;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
 }
