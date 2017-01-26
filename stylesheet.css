@@ -33,3 +33,6 @@ img{
 	float: left;
 }
 
+.container .img{
+	float: right;
+}
