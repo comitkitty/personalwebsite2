@@ -7,6 +7,11 @@ body
 	width:100%;
 }
 
+.img{
+	float:right;
+	width:40%;
+	height:40%;
+}
 
 .frontCircle{
 	float: left;
@@ -26,10 +31,6 @@ body
 
 }
 
-img{
-	float:right;
-	width:40%;
-	height:40%;
-}
+
 
 
