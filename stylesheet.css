@@ -20,5 +20,5 @@ body
 
 .frontPhoto{
     margin: auto;
-    display: inline;
+    display: inline-block;
 }
