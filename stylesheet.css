@@ -3,6 +3,10 @@ body
   font-family:"Arsenal";
 }
 
+.container {
+	display: inline-block;
+}
+
 .frontCircle{
     	margin: 1em;
 	display: block;
@@ -27,6 +31,4 @@ img{
 	height:40%;
 }
 
-.container {
-	display: inline-block;
-}
+
