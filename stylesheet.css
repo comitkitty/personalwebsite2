@@ -4,8 +4,11 @@ body
 }
 
 .frontCircle{
-	display: block;
-	margin: 20px,10px,20px,10px;
+	padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
 	width: 400px;
 	height: 150px;
 	background-color: #000;
