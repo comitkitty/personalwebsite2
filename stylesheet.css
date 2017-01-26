@@ -10,12 +10,11 @@ body
 	position: relative;
 	margin:50px 50px 50px 50px;
 	left: 30px;
-	border-radius: 50%;
 	width: 200px;
 	height: 200px;
 	background-color: #000;
 	color: #fff;
-	font-size: 18px;
+	font-size: 36px;
 	display: absolute;
 	text-align: center;
 
