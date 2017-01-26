@@ -4,9 +4,7 @@ body
 }
 
 .frontCircle{
-	position: absolute;
-	top: 20px;
-	left: 20px;
+	border: 50px;
 	width: 400px;
 	height: 150px;
 	background-color: #000;
