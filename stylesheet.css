@@ -6,8 +6,6 @@ body
 .frontCircle{
     	margin: 1em;
 	display: block;
-    	top: 2em;
-    	left: 1em;
 	width: 400px;
 	height: 150px;
 	background-color: #000;
