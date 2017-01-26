@@ -3,12 +3,7 @@ body
   font-family:"Arsenal";
 }
 
-.container{
-	width:100%;
-}
-.frontPhoto{
 
-}
 .img{
 	float:right;
 	width:40%;
@@ -29,6 +24,11 @@ body
 	/* width and height can be anything, as long as they're equal */
 }
 
+.container{
+	width:100%;
+}
+.frontPhoto{
 
+}
 
 
