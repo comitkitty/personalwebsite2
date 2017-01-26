@@ -3,8 +3,13 @@ body
   font-family:"Arsenal";
 }
 
+.container{
+	width:100%;
+}
+
+
 .frontCircle{
-    
+    	float: left;
 	width: 400px;
 	height: 150px;
 	background-color: #000;
@@ -20,6 +25,7 @@ body
 }
 
 img{
+	float:right;
 	width:40%;
 	height:40%;
 }
