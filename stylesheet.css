@@ -27,10 +27,6 @@ img{
 	height:40%;
 }
 
-.container .frontCircle{
-	float: left;
-}
-
-.container .img{
-	float: right;
+.container {
+	display: inline-block;
 }
