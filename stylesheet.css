@@ -24,8 +24,7 @@ height:100%;
 }
 .top {
   top:0;
-  height: 92px;
-  margin-bottom:10px;
+  height: 92px;;
 }
 .left {
     width: 200px;
@@ -35,7 +34,9 @@ height:100%;
 }
 .main {
   margin-left:200px;
+  margin-top:112px;
   min-height:100%;
+  
  }
 
 .sidebar{
