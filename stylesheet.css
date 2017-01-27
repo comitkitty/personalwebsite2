@@ -40,9 +40,17 @@ height:100%;
  }
 
 .sidebar{
-  background-color:black;
-  color:white;
+ 
   height:800px;
   margin-top:10px;
   margin-right:10px;
 }
+
+.writingSidebar {
+  height:100px;
+  width: 200px;
+  margin-bottom: 15px;
+  background-color:black;
+  color:white;
+}
+  
