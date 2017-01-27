@@ -58,4 +58,9 @@ height:100%;
   text-align: center;
 }
 
-  
+.writingSidebar {
+   width: 180px;
+  height:80px;
+  background-color: black;
+  text-align: center;
+}
