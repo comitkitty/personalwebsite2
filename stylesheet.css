@@ -40,9 +40,9 @@ height:100%;
  }
 
 
-.writingSidebar {
+.writingSidebar .skillsAndHobbiesSidebar .contactSidebar{
   height:100px;
-  width: 200px;
+  width:200px;
   margin-bottom: 15px;
   background-color:black;
   color:white;
