@@ -2,6 +2,9 @@ html,body{
 height:100%;
 }
 
+h1{
+  font-family: 'Amatic SC', cursive;
+}
 *{
 margin:0;
   padding:0;
@@ -19,7 +22,7 @@ height:100%;
     width: 178px;
     float:left;
   min-height:100%;
-  background:green;
+  
 }
 .main {
   margin-left:178px;
