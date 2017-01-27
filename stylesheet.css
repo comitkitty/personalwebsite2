@@ -47,7 +47,7 @@ height:100%;
 .mainwithGrey {
   margin-left:200px;
   margin-top:112px;
-  min-height:100%;
+  height:auto;
   background: rgba(192,192,192, 0.4); /* Green background with 30% opacity */
 }
 
