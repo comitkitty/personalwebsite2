@@ -1,1 +1,45 @@
 
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Autumn S. Writing</title>
+  <link rel="stylesheet" href="stylesheet.css"/>
+  <!-- Links to fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Arsenal" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:700" rel="stylesheet">
+</head>
+
+<body>
+ 
+<div class="wrapper">
+<div class="top">
+  <h1> <a href= "https://comitkitty.github.io/personalwebsite2/index.html"> Autumn S. </a></h1>
+</div>
+  <div class="left">
+    <div class="sidebar">
+
+      <div class="skillsAndHobbiesSidebar">
+        <br>
+        <h2>
+        <a href= "https://comitkitty.github.io/personalwebsite2/skillsandhobbies.index.html"> Skills and Hobbies</a> </h2>
+       </div>
+        </div>  
+    
+<div class="writingSidebar">
+  <br>
+        <h2>  Writing </h2>
+        </div>
+        
+</div>
+<div class="main">
+ </div>
+      
+
+  </div>
+
+  </body>
+</html>
