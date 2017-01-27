@@ -27,12 +27,12 @@ height:100%;
   height: 92px;
 }
 .left {
-    width: 178px;
+    width: 200px;
     float:left;
   min-height:100%;
   
 }
 .main {
-  margin-left:178px;
+  margin-left:200px;
   min-height:100%;
  }
