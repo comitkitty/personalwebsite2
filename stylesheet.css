@@ -79,6 +79,7 @@ height:100%;
   color:white;
 }
 #frontimg {
+  float: left;
   max-width: 300px;
   max-height: 500px;
   margin: 10px;
