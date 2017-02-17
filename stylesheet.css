@@ -1,7 +1,10 @@
 html,body{
   height: 100%;
-  width: 100%;   
+  width: 100%;  
+  font-family: 'Sansita', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
+
 
 h1{
   font-family: 'Amatic SC', cursive;
