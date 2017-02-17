@@ -11,6 +11,16 @@ h1{
 h2{
   font-family: 'Josefin Slab', serif;
 }
+a:link{
+  color:teal;
+}
+a:visited{
+  color: purple;
+}
+a:hover{
+  color: pink;
+}
+
 *{
 margin:0;
   padding:0;
@@ -19,6 +29,7 @@ margin:0;
 height:100%;
   overflow:hidden;
 }
+
 .top {
   top:0;
   height: 92px;
