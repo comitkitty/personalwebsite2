@@ -13,6 +13,7 @@ h2{
 }
 a:link{
   color:teal;
+  text-decoration: none;
 }
 a:visited{
   color: purple;
